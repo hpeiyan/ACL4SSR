@@ -1,9 +1,5 @@
 # 代理列表
 
-# 我自己的
-DOMAIN-SUFFIX,wakeupday.online
-DOMAIN-SUFFIX,cloudflare.com
-
 # MyList && Other
 DOMAIN-SUFFIX,servarr.com
 DOMAIN-SUFFIX,cloudflare.com
