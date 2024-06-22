@@ -17,6 +17,10 @@ DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,qupu123.com
 DOMAIN-SUFFIX,pdfwifi.com
 
+DOMAIN-SUFFIX,wakeupday.online
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,sms-activate.io
+
 # CN域名直连
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,中国
@@ -689,5 +693,3 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
-DOMAIN-SUFFIX,wakeupday.online
-DOMAIN-SUFFIX,cloudflare.com
