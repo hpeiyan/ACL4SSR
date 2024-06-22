@@ -3,6 +3,11 @@
 
 
 # MyList
+DOMAIN-SUFFIX,wakeupday.online
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,sms-activate.io
+DOMAIN-SUFFIX,macked.app
+
 DOMAIN-SUFFIX,13th.tech
 DOMAIN-SUFFIX,423down.com
 DOMAIN-SUFFIX,bokecc.com
@@ -16,10 +21,6 @@ DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,qupu123.com
 DOMAIN-SUFFIX,pdfwifi.com
-
-DOMAIN-SUFFIX,wakeupday.online
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,sms-activate.io
 
 # CN域名直连
 DOMAIN-SUFFIX,cn
