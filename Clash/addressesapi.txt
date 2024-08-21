@@ -3,3 +3,6 @@
 111.47.212.178
 111.47.212.177
 183.232.159.172
+www.shopify.com
+www.udacity.com
+fbi.gov
